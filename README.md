@@ -6,9 +6,13 @@ Após fazer testes com algumas imagens, fiz as seguintes observações:
 
 ## 1 - Detectar faces
 O serviço de detectar funciona muito bem, mesmo que parte do rosto esteja coberto com uma máscara ou outro tipo de objeto.
+![Print 1](https://raw.githubusercontent.com/biancassantos/ai-vision-pratica/refs/heads/main/inputs/print-1.png)
 
 ## 2 - Extrair textos
-O serviço de extrair textos (OCR) não fuinciona tão bem quando a imagem possui fontes muito estilizadas, como podemos observar na figura abaixo. Porém, em fontes mais simples e definidas (como na Imagem 2), o texto é extraído corretamente.
+O serviço de extrair textos (OCR) não funciona tão bem quando a imagem possui fontes muito estilizadas, como podemos observar na figura abaixo. Porém, em fontes mais simples e definidas (como na Imagem 2), o texto é extraído corretamente.
+![Print 2](https://raw.githubusercontent.com/biancassantos/ai-vision-pratica/refs/heads/main/inputs/print-2.png)
 
 ## 3 - Legendas
 O serviço de legendas funciona muito bem, tanto em imagens mais simples como em imagens com mais detalhes.
+![Print 3](https://raw.githubusercontent.com/biancassantos/ai-vision-pratica/refs/heads/main/inputs/print-3.png)
+![Print 4](https://raw.githubusercontent.com/biancassantos/ai-vision-pratica/refs/heads/main/inputs/print-4.png)

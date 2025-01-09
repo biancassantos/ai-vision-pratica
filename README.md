@@ -16,3 +16,6 @@ O serviço de extrair textos (OCR) não funciona tão bem quando a imagem possui
 O serviço de legendas funciona muito bem, tanto em imagens mais simples como em imagens com mais detalhes.
 ![Print 3](https://raw.githubusercontent.com/biancassantos/ai-vision-pratica/refs/heads/main/inputs/print-3.png)
 ![Print 4](https://raw.githubusercontent.com/biancassantos/ai-vision-pratica/refs/heads/main/inputs/print-4.png)
+
+
+Imagens: [Pexels](https://www.pexels.com/pt-br/)
